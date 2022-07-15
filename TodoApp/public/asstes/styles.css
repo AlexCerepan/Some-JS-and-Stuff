@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background-color: aliceblue;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 10px;
+  font-size: 21px;
+}
+
+button {
+  padding: 21px;
+  background: greenyellow;
+  color: #fff;
+  cursor: pointer;
+  font-size: 21px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  width: 100%;
+  padding: 21px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+li:hover {
+  text-decoration: line-through;
+  background: grey;
+}

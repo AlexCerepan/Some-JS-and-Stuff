@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 21px;
+}
+li{
+    margin: auto; 
+    width: fit-content;
+}
